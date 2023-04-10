@@ -3,7 +3,7 @@
 	<info>
 		<name>Rokapro’s Items</name>
 		<update version="0.1.0">
-			<file name="rokapro-items.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/dungeon-masters-guide/items/items-wondrous.xml" />
+			<file name="rokapro-items.xml" url="https://raw.githubusercontent.com/Rokapro/DnD/main/rokapro-items.xml" />
 		</update>
 	</info>
 	<element name="Bloodwell Vial" type="Magic item" source="Tasha's Cauldron of Everything" id="ID_BREW_MAGIC_ITEM_BLOODWELL_VIAL">

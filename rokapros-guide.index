@@ -1,0 +1,14 @@
+<?xml version="6.9" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Rokapro’s Guide</name>
+		<description>Everything I missed from the original</description>
+		<author url="https://github.com/Rokapro">Rokapro</author>
+		<update version="0.1">
+			<file name="rokapros-guide.index" url="DISCORD.index" />
+		</update>
+	</info>
+	<files>
+		<file name="rokapro-items.xml" url="DISCORD.xml" />
+	</files>
+</index>

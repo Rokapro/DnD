@@ -5,10 +5,10 @@
 		<description>Everything I missed from the original</description>
 		<author url="https://github.com/Rokapro">Rokapro</author>
 		<update version="0.1">
-			<file name="rokapros-guide.index" url="https://raw.githubusercontent.com/Rokapro/DnD/main/rokapros-guide.index" />
+			<file name="rokapros-guide.index" url="https://raw.githubusercontent.com/Rokapro/DnD/master/rokapros-guide.index" />
 		</update>
 	</info>
 	<files>
-		<file name="rokapro-items.xml" url="https://raw.githubusercontent.com/Rokapro/DnD/main/rokapro-items.xml" />
+		<file name="rokapro-items.index" url="https://raw.githubusercontent.com/Rokapro/DnD/master/rokapro-items.index" />
 	</files>
 </index>

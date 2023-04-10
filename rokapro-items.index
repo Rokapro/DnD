@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Rokapro Items</name>
+		<description>Everything I missed from the original</description>
+		<author url="https://github.com/Rokapro">Rokapro</author>
+		<update version="0.1">
+			<file name="rokapro-items.index" url="https://raw.githubusercontent.com/Rokapro/DnD/master/rokapro-items.index" />
+		</update>
+	</info>
+	<files>
+		<file name="rokapro-wondrous.xml" url="https://raw.githubusercontent.com/Rokapro/DnD/master/rokapro-wondrous.xml" />
+	</files>
+</index>

@@ -1,3 +1,3 @@
 # Rokapro's guide to everything
 
-https://github.com/Rokapro/DnD/blob/main/rokapros-guide.index
+https://raw.githubusercontent.com/Rokapro/DnD/main/rokapros-guide.index
